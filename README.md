@@ -9,7 +9,7 @@
 ## 3. 팀원 소개 및 업무 분담 👨‍👨‍👧‍👦
 <img width="530" alt="스크린샷 2022-11-04 오후 6 37 54" src="https://user-images.githubusercontent.com/75536654/199941260-cdc8775a-a53d-4703-810b-170dbff0b24e.png">
 
-## 4. 사 용기술 🕹
+## 4. 사용 기술 🕹
 * ANSI-SQL : DDL, DML
 * PL/SQL: Procedure
 
@@ -37,7 +37,7 @@
 9. 교육생 - 개인 성적 조회
 <img width="757" alt="그림1" src="https://user-images.githubusercontent.com/75536654/199939286-638ec8a5-324e-45df-b781-47ea8e74d21c.png">
 10. 교육생 - 공지사항 조회
-![그림1](https://user-images.githubusercontent.com/75536654/199939514-fb7acf73-729d-478f-aedf-6c094c0c3f99.png)
+<img width="757" alt="그림1" src="https://user-images.githubusercontent.com/75536654/199939514-fb7acf73-729d-478f-aedf-6c094c0c3f99.png">
 11. 질문 & 답변 게시판
 <img width="984" alt="그림1" src="https://user-images.githubusercontent.com/75536654/199939694-c5ed1e3b-654a-454a-a74f-301b9d62ac59.png">
 12. 추천 문서 게시판 - 교육생들이 사용해본 문서를 추천
