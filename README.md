@@ -4,7 +4,7 @@
 기존의 교육센터 운영/관리에 있어서 관리자, 교사, 교육생, 수료생에게 계정 별 필요한 기능을 제공하며, 추가 요구사항에서의 교사 평가 / 공지사항 / 질문 게시판 / 문서 추천 / 수료생 게시판의 기능 추가를 통해 기존 일련의 작업들을 단순화시키고, DB 관리의 효율성을 증가시키고자 한다.
 
 ## 2. 개발 환경 ⚙️
-<img width="1028" alt="스크린샷 2022-11-04 오후 6 37 03" src="https://user-images.githubusercontent.com/75536654/199941102-6a116cf6-bd80-4010-9c2c-0852951ff2de.png">
+<img width="1140" alt="스크린샷 2022-11-04 오후 8 23 37" src="https://user-images.githubusercontent.com/75536654/199961408-fa7df1b9-242a-4e00-83d0-eecd05d18cff.png">
 
 ## 3. 팀원 소개 및 업무 분담 👨‍👨‍👧‍👦
 <img width="772" alt="스크린샷 2022-11-04 오후 6 37 54" src="https://user-images.githubusercontent.com/75536654/199941260-cdc8775a-a53d-4703-810b-170dbff0b24e.png">
