@@ -7,7 +7,7 @@
 <img width="1028" alt="스크린샷 2022-11-04 오후 6 37 03" src="https://user-images.githubusercontent.com/75536654/199941102-6a116cf6-bd80-4010-9c2c-0852951ff2de.png">
 
 ## 3. 팀원 소개 및 업무 분담 👨‍👨‍👧‍👦
-<img width="530" alt="스크린샷 2022-11-04 오후 6 37 54" src="https://user-images.githubusercontent.com/75536654/199941260-cdc8775a-a53d-4703-810b-170dbff0b24e.png">
+<img width="772" alt="스크린샷 2022-11-04 오후 6 37 54" src="https://user-images.githubusercontent.com/75536654/199941260-cdc8775a-a53d-4703-810b-170dbff0b24e.png">
 
 ## 4. 사용 기술 🕹
 * ANSI-SQL : DDL, DML
