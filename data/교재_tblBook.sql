@@ -1,0 +1,32 @@
+-- 교재
+-- 교재번호, 교재명, 출판사, 개설 과목번호
+insert into tblBook values (1, 'HTML5 웹 프로그래밍 입문', '한빛아카데미', 1);
+insert into tblBook values (2, 'CSS 완벽 가이드', '웹액츄얼리코리아', 2);
+insert into tblBook values (3, 'Do it! 자바스크립트', '이지스퍼블리싱', 3);
+insert into tblBook values (4, 'JavaScript+jQuery 정복', '한빛미디어', 4);
+insert into tblBook values (5, '쉽게 배우는 JSP 웹 프로그래밍', '한빛아카데미', 5);
+insert into tblBook values (6, '스프링5 프로그래밍 입문', '가메', 6);
+insert into tblBook values (7, '실전 스프링 부트 웹 개발 JSP + MyBatis + Oracle', '온노트', 7);
+insert into tblBook values (8, 'Java의 정석', '도우출판', 8);
+insert into tblBook values (9, ' JDBC API를 이용한 데이터베이스 프로그래밍', '한국학술정보', 9);
+insert into tblBook values (10, '이것이 MariaDB다', '한빛미디어', 10);
+insert into tblBook values (11, 'Do it! 점프 투 파이썬', '이지스퍼블리싱', 11);
+insert into tblBook values (12, 'Pandas로 하는 데이터 과학 2/e', '에이콘출판사', 12);
+insert into tblBook values (13, '케라스 창시자에게 배우는 딥러닝', '길벗', 13);
+insert into tblBook values (14, '구글 브레인팀에게 배우는 딥러닝 with TensorFlow.js', '길벗', 14);
+insert into tblBook values (15, 'Real MySQL 8.0', '위키북스', 15);
+insert into tblBook values (16, '오라클로 배우는 데이터베이스 개론과 실습', '한빛아카데미', 16);
+insert into tblBook values (17, '혼자 공부하는 C 언어', '한빛미디어', 17);
+insert into tblBook values (18, '이것이 C#이다', '한빛미디어', 18);
+insert into tblBook values (19, '윤성우의 열혈 C 프로그래밍', '오렌지미디어', 19);
+insert into tblBook values (20, '데이터 과학 기반의 파이썬 빅데이터 분석', '한빛아카데미', 20);
+insert into tblBook values (21, '혼자 공부하는 머신러닝+딥러닝', '한빛미디어', 21);
+insert into tblBook values (22, '배워서 바로 쓰는 스프링 프레임워크', '한빛미디어', 22);
+insert into tblBook values (23, '나만의 데이터 분석 플랫폼 엘라스틱서치', '비제이퍼블릭', 23);
+insert into tblBook values (24, '임베디드 엔지니어 교과서', '제이펍', 24);
+insert into tblBook values (25, '응용 소프트웨어: 로드 맵', 'ITCEC', 25);
+insert into tblBook values (26, 'IT 엔지니어를 위한 네트워크 입문', '길벗', 26);
+insert into tblBook values (27, '모두의 리눅스', '길벗', 27);
+insert into tblBook values (28, '윤성우의 열혈 TCP/IP 소켓 프로그래밍', '오렌지미디어', 28);
+insert into tblBook values (29, '리눅스 커맨드라인 쉘 스크립트 바이블', '스포트라잇북', 29);
+insert into tblBook values (30, '쉽게 배우는 운영체제', '글로벌', 30);
